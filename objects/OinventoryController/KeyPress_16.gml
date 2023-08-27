@@ -1,0 +1,1 @@
+inventoryRemove(id,1)

@@ -1,0 +1,1 @@
+inventoryadd(id,1)

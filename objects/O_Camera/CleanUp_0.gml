@@ -1,0 +1,2 @@
+surface_free(id)
+surface_free(application_surface)

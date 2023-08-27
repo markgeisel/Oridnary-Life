@@ -1,0 +1,1 @@
+show_debug_message(InventorySearch(id,2)!=-1)

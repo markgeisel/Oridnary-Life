@@ -1,0 +1,12 @@
+alarm[0] = 480 
+image_alpha=1
+size=1	
+y = y - 40
+z=+410
+counter =0 
+damage2=""
+counter1 = 0
+trigger =0 
+count = 0 
+drop = 43 
+Pausedimagespeed=0
